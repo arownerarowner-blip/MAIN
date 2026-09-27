@@ -1,0 +1,2 @@
+# MAIN
+Prediction bot
